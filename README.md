@@ -41,7 +41,7 @@ Memory usage: More memory is required in the linked list as compared to an array
 10. Delete an item from the list.
 11. Make a copy of the linked list.
 
-## LinkedList Can be Ordered List Or UnOrdered List ##
+## LinkedList Can be Ordered List Or UnOrdered List 
  The algorithms to implement the operations search, insert, and remove slightly differ for sorted and unsorted lists
  *** SO: *** 
   - define the class *linkedList* to implement the basic operations on a
